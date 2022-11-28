@@ -1,4 +1,4 @@
-# RutDevKit-PSoC62 USB PD Control Example
+# RDK2 USB PD Control Example
 
 Rutronik Development Kit Programmable System-on-Chip CY8C6245AZI-S3D72 "USB Power Delivery Control" Example. 
 
@@ -6,11 +6,16 @@ This example demonstrates how to access and control the CYPD3177 power delivery 
 
  <img src="images/rutdevkit_model.png" style="zoom:20%;" />
 
+## Requirements
+
+- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) v3.0
+
 ### Using the code example with a ModusToolbox IDE:
 
 1. Import the project: **File** > **Import...** > **General** > **Existing Projects into Workspace** > **Next**.
-2. Select the directory where **"RutDevKit-PSoC62_USB_PD_Control"** resides and click  **Finish**.
-3. Select and build the project **Project ** > **Build Project**.
+2. Select the directory where **"RDK2_USB_PD_Control"** resides and click  **Finish**.
+3. Update libraries using  a **"Library Manager"** tool.
+4. Select and build the project **Project ** > **Build Project**.
 
 ### Operation
 
@@ -32,7 +37,7 @@ The progress can be seen via KitProg3 UART:
 
 ### Debugging
 
-If you successfully have imported the example, the debug configurations are already prepared to use with a the KitProg3, MiniProg4, or J-link. Open the ModusToolbox perspective and find the Quick Panel. Click on the desired debug launch configuration and wait until the programming completes and debugging starts.
+If you successfully have imported the example, the debug configurations are already prepared to use with a the KitProg3, MiniProg4, or J-link. Open the ModusToolbox perspective and find the Quick Panel. Click on the desired debug launch configuration and wait until the programming completes and the debugging starts.
 
 <img src="images/usb_pd_debug.png" style="zoom:100%;" />
 
