@@ -46,7 +46,7 @@ TARGET=RDK2
 #
 # If APPNAME is edited, ensure to update or regenerate launch
 # configurations for your IDE.
-APPNAME=mtb-example-empty-app
+APPNAME=rdk2-usb-power-delivery-i2c-control
 
 # Name of toolchain to use. Options include:
 #
