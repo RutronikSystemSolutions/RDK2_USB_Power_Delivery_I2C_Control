@@ -1,1 +1,0 @@
-Populate this folder with your library dependencies(.mtb files like, freertos.mtb, etc...) by selecting it from library manager and update it. 
