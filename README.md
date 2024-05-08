@@ -4,11 +4,15 @@ Rutronik Development Kit Programmable System-on-Chip CY8C6245AZI-S3D72 "USB Powe
 
 This example demonstrates how to access and control the CYPD3177 power delivery sink controller.
 
- <img src="images/rutdevkit_model.png" style="zoom:20%;" />
+<img src="images/rdk2_rev1.jpg" style="zoom:80%;" />
 
 ## Requirements
 
-- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) v3.0
+- [ModusToolbox® software](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software/) **v3.x** [built with **v3.0**]
+
+## Supported toolchains (make variable 'TOOLCHAIN')
+
+- GNU Arm&reg; Embedded Compiler v11.3.1 (`GCC_ARM`) - Default value of `TOOLCHAIN`
 
 ## Using the code example
 

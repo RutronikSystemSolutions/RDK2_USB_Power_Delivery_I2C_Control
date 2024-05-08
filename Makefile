@@ -65,7 +65,7 @@ TOOLCHAIN=GCC_ARM
 #
 # If CONFIG is manually edited, ensure to update or regenerate launch configurations
 # for your IDE.
-CONFIG=Costum
+CONFIG=Custom
 
 # If set to "true" or "1", display full command-lines when building.
 VERBOSE=
